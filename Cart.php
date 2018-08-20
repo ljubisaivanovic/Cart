@@ -1,7 +1,5 @@
 <?php
 
-namespace Einutech\Support;
-
 class Cart
 {
     private static $instance;
